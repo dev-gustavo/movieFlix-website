@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./dashboard/static/css/main.d0978084.css",
+    "main.js": "./dashboard/static/js/main.30d29792.js",
+    "static/media/topgun_new.jpeg": "./dashboard/static/media/topgun_new.02ebbf48ebfc62743f10.jpeg",
+    "static/media/jurassic_new.jpeg": "./dashboard/static/media/jurassic_new.3c139acecc873d3508f5.jpeg",
+    "static/media/minion.jpeg": "./dashboard/static/media/minion.5a2c0537ccfdb79c3351.jpeg",
+    "index.html": "./dashboard/index.html",
+    "main.d0978084.css.map": "./dashboard/static/css/main.d0978084.css.map",
+    "main.30d29792.js.map": "./dashboard/static/js/main.30d29792.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0978084.css",
+    "static/js/main.30d29792.js"
+  ]
+}
